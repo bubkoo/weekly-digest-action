@@ -12,6 +12,7 @@ inputs:
     description: How many days before now to collect metadata.
     default: 7
 
+
   publish_issues:
     required: false
     description: Should publish issues or not.
